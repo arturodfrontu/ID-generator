@@ -1,0 +1,9 @@
+{
+  "name": "@arturodfrontu/id-generator",
+  "version": "1.0.0",
+  "description": "This is random ID generator. Feel free to use it in Your's projects. ",
+  "main": "index.js",
+  "repository": "https://github.com/arturodfrontu/ID-generator.git",
+  "author": "Artur od Frontu <trapczynski.a@gmail.com>",
+  "license": "MIT"
+}
